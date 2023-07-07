@@ -1,0 +1,93 @@
+body{
+    width: 300px;
+    height: 430px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #222831;
+    color: rgb(231, 230, 230);
+}
+.title{
+    margin: .6rem auto;
+    font-size: 1.1rem;
+    text-align: center;
+}
+#searchinput{
+    outline: none;
+    border: 0px;
+    width: 80%;
+    margin: auto;
+    height: 1.3rem;
+    border-radius: 3px;
+    padding: .4rem .5rem 0rem .5rem ;
+    font-size: 1rem;
+    background-color: inherit;
+    color: #e9e7e7;
+    border-bottom: 2px solid rgb(124, 119, 119);
+}
+#searchinput::placeholder{
+    font-size: 1rem;
+    color: rgba(207, 206, 206, 0.719);
+}
+#output{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+}
+#detailwraper{
+    text-align: left;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: .4rem;
+    font-size: 1rem;
+}
+#detailwraper > div{
+    font-weight: 600;
+}
+#detailwraper > span{
+    color: rgb(231, 230, 230);
+}
+#detailwraper > div,#detailwraper > span {
+    border: 1px solid black;
+    padding: .4rem;
+}
+#errordivholder{
+    margin-top: 4rem;
+}
+#errordivholder > p{
+    font-size: 1.1rem;
+    color: rgb(189, 11, 11);
+}
+#body{
+    display: flex;
+    justify-content: center;
+}
+#output > #loadingdiv{
+    display: flex;
+    justify-content: center;
+    border: 0px;
+    margin: auto;
+    margin-top: 3rem;
+}
+.circle{
+    height: 4rem;
+    width: 4rem;
+    border-radius: 50%;
+    animation: loading 1.8s infinite linear;
+    box-shadow: 0px 3px 4px inset rgb(100, 4, 119);
+}
+@keyframes loading{
+    0%{
+        transform: rotate(0deg);
+    }
+    25%{
+        transform: rotate(90deg);
+    }
+    50%{
+        transform: rotate(180deg)
+    }
+    75%{
+        transform: rotate(270deg)
+    }
+    100%{
+        transform: rotate(360deg)
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "manifest_version": 3,
+    "name": "Nep Share",
+    "version": "0.0.1",
+    "description": "With this extension you can get the stock data of nepali companies by just giving the symbol of the company.",
+    "icons": {
+        "16": "logo.png",
+        "32": "logo.png",
+        "48": "logo.png",
+        "128": "logo.png"
+    },
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": {
+            "16": "logo.png",
+            "32": "logo.png",
+            "48": "logo.png",
+            "128": "logo.png"
+        },
+        "permissions": ["activeTab"]
+    },
+    "background": {
+        "service_worker": "random.js",
+        "type": "module"
+      }
+}
