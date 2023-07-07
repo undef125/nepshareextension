@@ -12,3 +12,6 @@ So, you can just git clone the project
 ```
 git clone https://github.com/undef125/nepshareextension.git
 ```
+then from developer option in chromium based browser turn on developer mode and select load unpack option and chooose frontend frolder from that
+
+no need to do anything with backend folder as it is already hosted
