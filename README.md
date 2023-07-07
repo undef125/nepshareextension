@@ -1,6 +1,9 @@
 # nepshareextension
 With this extension you can search for stock detail of any nepali company easily at ease.
 
+Video Sample:
+[Screencast from 07-07-2023 05:10:24 PM.webm](https://github.com/undef125/nepshareextension/assets/86185111/f1bbec77-a7c0-4a52-8abc-407738b42810)
+
 # How it is developed and what is used?
 1) fronted is just like website used html css js
 2) for backend I have used nodejs express and scraped stock data using cheerio from merolagani
@@ -16,4 +19,4 @@ then from developer option in chromium based browser turn on developer mode and 
 
 no need to do anything with backend folder as it is already hosted
 
-⚠️ Use it at your own risk made this only for educational purpose.
+⚠️ Use it at your own risk. This only for educational purpose.
