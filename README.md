@@ -1,7 +1,7 @@
 # nepshareextension
 With this extension you can search for stock detail of any nepali company easily at ease.
 
-Video Sample:
+#Video Sample
 
 ![ezgif com-video-to-gif](https://github.com/undef125/nepshareextension/assets/86185111/13d90b17-eee9-4fd6-96ab-4c32ed2115b1)
 
