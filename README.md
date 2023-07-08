@@ -2,7 +2,8 @@
 With this extension you can search for stock detail of any nepali company easily at ease.
 
 Video Sample:
-https://github.com/undef125/nepshareextension/assets/86185111/f1bbec77-a7c0-4a52-8abc-407738b42810
+![ezgif com-video-to-gif](https://github.com/undef125/nepshareextension/assets/86185111/13d90b17-eee9-4fd6-96ab-4c32ed2115b1)
+
 
 # How it is developed and what is used?
 1) fronted is just like website used html css js
