@@ -2,6 +2,7 @@
 With this extension you can search for stock detail of any nepali company easily at ease.
 
 Video Sample:
+<video src="https://github-production-user-asset-6210df.s3.amazonaws.com/86185111/251880714-f1bbec77-a7c0-4a52-8abc-407738b42810.webm?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230708%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230708T000018Z&X-Amz-Expires=300&X-Amz-Signature=f80152582ae00a9f1ea68a2755d9c03856b373bb667887a63e49595793e202f5&X-Amz-SignedHeaders=host&actor_id=86185111&key_id=0&repo_id=663711415" height="12rem" width="80%" />
 [Screencast from 07-07-2023 05:10:24 PM.webm](https://github.com/undef125/nepshareextension/assets/86185111/f1bbec77-a7c0-4a52-8abc-407738b42810)
 
 # How it is developed and what is used?
