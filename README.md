@@ -1,5 +1,5 @@
 # nepshareextension
-With this extension you can search for stock detail of any nepali company easily at ease.
+With this extension you can search for stock detail of any nepali company easily.
 
 # Video Sample
 
